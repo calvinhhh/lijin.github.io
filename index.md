@@ -25,5 +25,6 @@ NLP是数据科学领域的一个重要的分支，它包含了以一种高效�
 ### 硕士
 北京邮电大学信息与通信工程学院（在读）  
 
-## 研究成果
+## 研究成果  
+anomaly detection in health data based on deep learning  
 <https://github.com/calvinhhh/lijin.github.io/blob/master/anomaly%20detection%20in%20health%20data%20based%20on%20deep%20learning%20-%20ning%20han.docx>
