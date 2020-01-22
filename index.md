@@ -8,7 +8,6 @@
       <p><b>地址：北京市海淀区西土城路10号</b></p>
     </td>
     <td width="25%">
-       ![image](https://github.com/calvinhhh/lijin.github.io/raw/master/zhengjianzhao.jpg)
       <img src="/zhengjianzhao.jpg" width="180%">
     </td>
   </tr>
