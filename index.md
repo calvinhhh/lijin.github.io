@@ -8,7 +8,7 @@
       <p><b>地址：北京市海淀区西土城路10号</b></p>
     </td>
     <td width="25%">
-      <img src="/111.jpg" width="180%">
+      <img src="/111.jpg" width="100%">
     </td>
   </tr>
 </table>
